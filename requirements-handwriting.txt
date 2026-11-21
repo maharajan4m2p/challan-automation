@@ -1,0 +1,5 @@
+# Optional local handwriting-recognition add-on (not needed for Tesseract mode)
+torch>=2.2.0
+transformers>=4.45.0,<5.0.0
+sentencepiece>=0.2.0
+safetensors>=0.4.0
